@@ -10,3 +10,14 @@ The rapid growth of the internet and communication industries has led to an expa
 - [@MohamedAshmal](https://www.github.com/)
 - [@MohammedSanoob](https://www.github.com/)
 - [@Hunais](https://www.github.com/)
+
+
+## Installation
+
+Install  with pip MultipleNIDS
+
+```bash
+  cd MultipleNIDS
+  pip install pandas numpy sklearn streamlit
+```
+    
